@@ -1,0 +1,96 @@
+.section {
+  height: 80vh;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.service {
+  height: 80vh;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+
+
+.profile {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.data {
+  width: 25%;
+  height: 65vh;
+  color: black;
+  margin: 20px;
+  text-align: center;
+}
+
+.data img {
+  height: 180px;
+  width: 180px;
+
+  margin-top: 10px; }
+
+.info {
+ 
+  width: 90%;
+  height: 250px;
+  margin: 10px auto; }
+
+p {
+  padding: 5px;
+  font-size: 18px;
+  padding-top: 20px; }
+
+* {
+  padding: 0;
+  margin: 0; }
+
+.nav {
+  background: black;
+  position: relative;
+  height: 10vh;
+  width: 100%;
+text-decoration: none; }
+
+.nav li {
+  list-style: none;
+  float: left;
+  text-decoration: none; }
+
+.nav ul {
+  position: absolute;
+  left: 700px;
+  top: 10px;
+  text-decoration: none; }
+
+.nav-link {
+  font-size: 20px;
+ color: white;
+  margin: 8px;
+  padding: 10px;
+  text-decoration: none; }
+
+
+.nav h1 {
+  color: white;
+  margin-left: 70px;
+  font-size: 30px;
+  top: 20px; }
+
+.home {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+
+.home img {
+  width: 100%;
+  height: 100%; }
+
+
+/*# sourceMappingURL=styles.css.map*/
